@@ -1,14 +1,16 @@
 package algorithm;
 
+import java.util.HashMap;
+
 public class BinarySearch {
 
     public static void main(String[] args) {
         int arr[] = {1,2,3,4,5};
         System.out.println(circulationBinarySearch(arr,3));
-        System.out.println(recursionBinarySearch(arr,3,0,arr.length));
+        System.out.println(recursionBinarySearch(arr,3,0,arr.length-1));
     }
 
-
+    HashMap
     private static int circulationBinarySearch(int[] arr,int key) {
         int low = 0;
         int high = arr.length - 1;
