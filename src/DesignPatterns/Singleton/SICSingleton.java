@@ -6,7 +6,8 @@ public class SICSingleton {
         private static final SICSingleton INSTANCE = new SICSingleton();
     }
 
-    private SICSingleton(){}
+    private SICSingleton() {
+    }
 
     public static final SICSingleton getInstance() {
         return SingletonHolder.INSTANCE;

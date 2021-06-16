@@ -1,6 +1,6 @@
 package DesignPatterns.Singleton;
 
-public enum  EnumSingleton {
+public enum EnumSingleton {
 
     INSTANCE;
 

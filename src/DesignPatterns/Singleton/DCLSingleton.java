@@ -3,7 +3,8 @@ package DesignPatterns.Singleton;
 public class DCLSingleton {
     private volatile static DCLSingleton singleton;
 
-    private DCLSingleton(){}
+    private DCLSingleton() {
+    }
 
     public static DCLSingleton getSingleton() {
         if (singleton == null) {

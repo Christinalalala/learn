@@ -11,8 +11,8 @@ public class MyLinkedList<T> {
 
     public MyLinkedList() {
         this.size = 0;
-        this.header = new Node<T>(null,null,null);
-        this.tail = new Node<T>(header,null,null);
+        this.header = new Node<T>(null, null, null);
+        this.tail = new Node<T>(header, null, null);
         header.setNext(tail);
     }
 
@@ -30,21 +30,21 @@ public class MyLinkedList<T> {
     }
 
     public T get(Integer index) {
-        if (index>=size || index <0 ) {
+        if (index >= size || index < 0) {
             throw new IndexOutOfBoundsException();
         }
         Node current = header;
-        for (int i=0;i<=index;i++) {
+        for (int i = 0; i <= index; i++) {
             current = current.getNext();
         }
-        return (T)current.getData();
+        return (T) current.getData();
     }
 
     public String print() {
         StringBuilder sb = new StringBuilder();
         Node<T> current = header.getNext();
         while (current.getNext() != null) {
-            System.out.print(current.getData()+" ");
+            System.out.print(current.getData() + " ");
             current = current.getNext();
         }
         return sb.toString();

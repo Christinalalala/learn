@@ -1,0 +1,24 @@
+
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(Ã™œøûÿÿÿÿ8‘ıÉ›¡/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ëİ¢¤8‘ıÉ›¡/
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(Ìî‚¬ùÿÿÿÿ8‘ıÉ›¡/
+J
+java:S1481"(Remove this unused "sum" local variable.(†€ıóÿÿÿÿÿ8‘ıÉ›¡/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢ˆüŞ8‘ıÉ›¡/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ìî‚¬ùÿÿÿÿ8‘ıÉ›¡/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8‘ıÉ›¡/
+o
+java:S1192"MDefine a constant instead of duplicating this literal "sumç”¨æ—¶ï¼š" 3 times.(Ìî‚¬ùÿÿÿÿ8‘ıÉ›¡/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Ìî‚¬ùÿÿÿÿ8‘ıÉ›¡/
+]	java:S125"<This block of commented-out lines of code should be removed.(áİ˜ïüÿÿÿÿ8‘ıÉ›¡/
+J
+java:S1481,"(Remove this unused "sum" local variable.(†€ıóÿÿÿÿÿ8‘ıÉ›¡/
+”
+java:S1130
+"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(­Ëê8‘ıÉ›¡/
+
+java:S1130
+"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(­Ëê8‘ıÉ›¡/
+S
+java:S1994"6Move the update of "y" into this loop's update clause.(Ëİ¢¤8‘ıÉ›¡/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ëİ¢¤8‘ıÉ›¡/

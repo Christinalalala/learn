@@ -1,0 +1,12 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Äæ§‚ÿÿÿÿÿ
+@
+java:S5411"*Use the primitive boolean expression here.(ûÅŸ
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(áØ¸Âşÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(áØ¸Âşÿÿÿÿ
+?
+java:S1125")Remove the literal "false" boolean value.(ûÅŸ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ïæà
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(¶Ä¯á
