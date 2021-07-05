@@ -1,6 +1,6 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¥ëòûÿÿÿÿ
-r
-java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(²Õ¡ÿÿÿÿÿ
 `
 java:S1124"EReorder the modifiers to comply with the Java Language Specification.(²Õ¡ÿÿÿÿÿ
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(²Õ¡ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¥ëòûÿÿÿÿ

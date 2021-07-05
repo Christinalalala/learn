@@ -1,4 +1,5 @@
 
-qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Åõ®³úÿÿÿÿ8¯ŒÙ“™.
- squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(¦æ¶¨üÿÿÿÿ8šå²•™.
-]squid:S1118":Add a private constructor to hide the implicit public one.(Åõ®³úÿÿÿÿ8šå²•™.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Åõ®³úÿÿÿÿ8”©·¡/
+y	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¦æ¶¨üÿÿÿÿ8”©·¡/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Åõ®³úÿÿÿÿ8”©·¡/

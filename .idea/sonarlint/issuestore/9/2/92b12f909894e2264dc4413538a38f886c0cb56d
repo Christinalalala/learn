@@ -1,4 +1,4 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¥ëòûÿÿÿÿ
 B
 java:S2440",Remove this instantiation of "SICSingleton".(³ÙÚ£
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¥ëòûÿÿÿÿ
